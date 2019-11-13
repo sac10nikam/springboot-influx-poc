@@ -16,5 +16,5 @@ management:
     export:
       influx:
         db: boot
-        uri: http://10.1.20.25:8086
+        uri: http://localhost:8086
         auto-create-db: false
