@@ -7,7 +7,7 @@ spring:
     password: secret
     read-timeout: 10
     retention-policy: autogen
-    url: http://10.1.20.25:8086
+    url: http://localhost:8086
     username: admin
     write-timeout: 10
     
